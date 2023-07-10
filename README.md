@@ -59,7 +59,7 @@ pip install pandas matplotlib numpy mpi4py
 
 To execute the code for the "Distributed K-Means Clustering with MPI" project, follow these steps:
 
-1. Clone the project repository from GitHub: [Link to Repository](https://github.com/your-username/your-repository)
+1. Clone the project repository from GitHub: [Link to Repository](https://github.com/AlbertHunduza/DistributedKNN.git)
 
 2. Navigate to the project directory.
 
