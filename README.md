@@ -35,8 +35,8 @@ The experiments were carried out using a dataset that contains over 7000 instanc
 
 The following results are available:
 
-- **Clustering Results**: [clusters.png](./clusters.png)
-- **Visualization of Clustering Results**: [results.png](./results.png)
+- **Visualization of Clustering Results**: [results.png](./clusters.png)
+- **Execution times for differnt numbers of ranks**: [clusters.png](./results.png)
 - **Source Code**: [distributed_knn.py](./distributed_knn.py)
 
 ## Prerequisites
